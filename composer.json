@@ -1,5 +1,5 @@
 {
-  "name": "shinde-rahul/helloworld-bundle",
+  "name": "shinde-rahul/helloworld",
   "description": "Hello World plugin built on the Integrations framework.",
   "type": "mautic-plugin",
   "version": "1.0.1",
