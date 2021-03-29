@@ -28,8 +28,5 @@
     "csfixer": "vendor/bin/ecs check .",
     "fixcs": "vendor/bin/ecs check . --fix"
   },
-  "minimum-stability": "dev",
-  "extra": {
-    "install-directory-name": "MauticGmailBundle"
-  },
+  "minimum-stability": "dev"
 }
